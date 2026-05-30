@@ -1,1 +1,1 @@
-# Warcraft-III-Reborn-1.28.5-
+# Warcraft-III-Reborn-1.28.5

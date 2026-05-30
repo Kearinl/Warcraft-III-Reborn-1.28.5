@@ -1,6 +1,6 @@
 # Warcraft III: Reborn | 1.28.5 | ROC+TFT!
 
-
+[https://happydayzgames.com/w3reborn/](happydayzgames.com/w3reborn/)
 		
 ## Step-by-Step Setup Guide:
 
@@ -49,5 +49,3 @@ v0.0.1 | 05/30/2026
 
 More features such as ranked ladders, clans, and seasons will be introduced over time.
 
-
-https://happydayzgames.com/w3reborn/
